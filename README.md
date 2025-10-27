@@ -107,6 +107,12 @@ Complete office suite (Microsoft Office alternative).
 ```bash
 sudo apt install libreoffice
 ```
+### Glow
+Terminal markdown reader 
+
+```bash
+sudo snap install glow
+```
 
 ---
 
